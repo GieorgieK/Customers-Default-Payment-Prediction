@@ -8,6 +8,16 @@ A bank aims to identify credit card customers who are at risk of defaulting on t
 
 To implement machine learning classification algorithms, specifically Logistic Regression, SVM, and KNN, including understanding their concepts, preparing the data, and using appropriate hyperparameters.
 
+## Tools
+
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://pandas.pydata.org/)
+[<img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />](https://seaborn.pydata.org/)
+[<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />](https://numpy.org/)
+[<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />](https://matplotlib.org/)
+[<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />](https://www.scipy.org/)
+[<img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />](https://scikit-learn.org/)
+[<img src="https://img.shields.io/badge/XGBoost-016E54?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />](https://xgboost.ai/)
+
 ## Project Overview
 
 ### Problem
